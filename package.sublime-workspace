@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ds",
+				"display"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"sport",
+				"sports"
+			],
+			[
+				"Basketba",
+				"Basket-ball"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Ch",
+				"Chemical"
+			],
+			[
+				"El",
+				"Electronics"
+			],
+			[
+				"Electr",
+				"Electrical"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navbar"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/easy-node-authentication-local/node_modules/bson/ext/index.js",
+		"/D/Programs/Projects/p2/controllers/AuthControllers.js",
+		"/D/Programs/Projects/trial/haha/package.json",
+		"/D/Programs/Projects/p2/package.json",
+		"/D/Programs/Projects/P2-passport/package.json",
+		"/D/Programs/Projects/P1-zell/package.json",
+		"/D/Programs/Projects/P1-zell/server.js",
+		"/D/Programs/Projects/views/index.ejs",
+		"/D/Programs/Projects/index.html",
+		"/D/Programs/Projects/package.json",
+		"/D/Programs/Projects/server.js",
+		"/C/Users/User/Desktop/passport-local-authentication-master/server.js",
+		"/C/Users/User/Desktop/about.html",
+		"/D/multi-project/code2.txt",
+		"/G/rsa_sign.java",
+		"/G/rsa_verify.java",
+		"/G/rsa.java",
+		"/G/md5.java",
+		"/C/Users/User/Downloads/Chrome Downloads/dssfdsf.html",
+		"/G/symmetric.java",
+		"/C/Users/User/Desktop/Project/views/inven.ejs",
+		"/C/Users/User/Desktop/Project/views/inventory.ejs",
+		"/C/Users/User/Desktop/Project/views/home.ejs",
+		"/C/Users/User/Desktop/Project/views/teams.ejs",
+		"/C/Users/User/Desktop/Project/db.js",
+		"/C/Users/User/Desktop/Project/views/matchups.ejs",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-build",
+		"/C/Users/User/Desktop/navbar-style.css",
+		"/C/Users/User/Desktop/styles.css",
+		"/C/Users/User/Desktop/Project/server.js",
+		"/C/Users/User/Desktop/Project/demofile1.html",
+		"/C/Users/User/Desktop/Project/app_1.js",
+		"/C/Users/User/Downloads/Chrome Downloads/venue.html",
+		"/C/Users/User/Downloads/Chrome Downloads/ccc.html",
+		"/C/Users/User/Downloads/Chrome Downloads/ccc (1).html",
+		"/C/Users/User/Downloads/Chrome Downloads/sport/bae.html",
+		"/C/xampp/htdocs/rajat/sportpro/Student/Events.php",
+		"/C/xampp/htdocs/rajat/sportpro/Student/mail.php",
+		"/C/xampp/htdocs/rajat/sportpro/Student/popup.html",
+		"/C/xampp/htdocs/rajat/sportpro/Student/About us.html",
+		"/C/xampp/htdocs/rajat/sportpro/Student/Results_stud.php",
+		"/C/xampp/htdocs/rajat/sportpro/Student/index.html",
+		"/C/xampp/htdocs/rajat/sportpro/Student/register.php",
+		"/C/xampp/htdocs/rajat/Sport Management System/sportpro/Admin/process_ajax.php",
+		"/C/xampp/htdocs/rajat/Sport Management System/sportpro/Student/About us.html",
+		"/C/xampp/htdocs/rajat/sportpro/Admin/addevent.php",
+		"/H/neg5.main-master/karma.config.js",
+		"/H/neg5.main-master/test-context.js",
+		"/C/xampp/htdocs/rajat/Sport Management System/sportpro/Student/register_process.php",
+		"/C/xampp/htdocs/prashant/Tournament-Management-System-master/team/index.php",
+		"/C/xampp/htdocs/prashant/Tournament-Management-System-master/.DS_Store",
+		"/C/xampp/htdocs/prashant/Tournament-Management-System-master/team/enterTEAMS.php",
+		"/C/xampp/htdocs/prashant/Tournament-Management-System-master/._.DS_Store",
+		"/C/xampp/htdocs/prashant/Tournament-Management-System-master/index.php",
+		"/C/xampp/htdocs/rajat/new/site/index.html",
+		"/C/xampp/htdocs/rajat/new/script.php",
+		"/C/xampp/htdocs/prashant/sportsmanagement-master/media/com_sportsmanagement/venues/index.html",
+		"/C/xampp/htdocs/prashant/sportsmanagement-master/README.md",
+		"/C/xampp/htdocs/rajat/Sport Management System/sportpro/Student/login.html",
+		"/C/Users/User/Downloads/Chrome Downloads/sport/ccc.html",
+		"/C/Users/User/Desktop/Project/views/index.ejs",
+		"/C/Users/User/Desktop/Project/views/games.ejs",
+		"/C/Users/User/Downloads/Chrome Downloads/inventory.html",
+		"/C/Users/User/Desktop/Project/napp.js",
+		"/C/Users/User/Desktop/Project/index.php",
+		"/C/Users/User/Desktop/Project/index_neew.html",
+		"/C/Users/User/Desktop/Project/app.js",
+		"/C/Users/User/Desktop/Project/anmol/db/db.js",
+		"/C/xampp/htdocs/rajat/rajat.html",
+		"/C/xampp/htdocs/rajat/barnwal.php",
+		"/C/Users/User/Desktop/Project/slider.html",
+		"/C/Users/User/Desktop/Project/slider2.html",
+		"/C/Users/User/Desktop/Project/myjs.js",
+		"/C/Users/User/Desktop/Project/myjs2.js",
+		"/C/Users/User/Desktop/Project/multiple-items-per-slide-in-bootstrap-carousel/index.html",
+		"/C/Users/User/Desktop/Project/multiple-items-per-slide-in-bootstrap-carousel/css/style.css",
+		"/C/Users/User/Desktop/Project/multiple-items-per-slide-in-bootstrap-carousel/js/index.js",
+		"/C/Users/User/Desktop/Project/dropmenu.html",
+		"/C/Users/User/Desktop/Project/DynamicDropdown/index.html",
+		"/C/xampp/htdocs/rajat/index.php",
+		"/C/Users/User/Downloads/Chrome Downloads/anmol.css",
+		"/C/xampp/htdocs/index.html",
+		"/C/Users/User/Downloads/Chrome Downloads/newcss.css",
+		"/C/Users/User/Downloads/Chrome Downloads/anmol.html",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/9852/index.php",
+		"/C/Users/User/Desktop/Project/views/home.ejs.html",
+		"/C/Users/User/Desktop/Project/index.ejs",
+		"/G/newcss.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
